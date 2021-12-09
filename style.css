@@ -1,0 +1,26 @@
+    td {
+        width: 100px;
+        height: 100px;
+        background: wheat;
+        text-align: center;
+        border-radius: 10px;
+        font-size: 50px;
+    }
+    
+    td:hover {
+        background-color: rgb(211, 180, 238);
+    }
+    
+    table {
+        margin: 20px auto;
+        border-radius: 10px;
+    }
+    
+    body {
+        background: rgb(107, 107, 238);
+    }
+    
+    #palyer {
+        display: flex;
+        justify-content: center;
+    }
