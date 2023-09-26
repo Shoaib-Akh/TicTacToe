@@ -49,8 +49,9 @@ function winner() {
             alert('match draw');
             document.getElementById('modelContent').innerHTML = 'Match Tied ' +
                 alphaplayer;
-            reset();
+          
         }, 0);
+        reset();
     }
 }
 
